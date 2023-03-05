@@ -1,5 +1,5 @@
 #!/bin/bash
-
+cd ~/egg-pack-demo
 # 拉取代码
 git pull
 
